@@ -17,14 +17,3 @@ Anthony Saber
 WareFlow: Streamlining inventory and shipments for a Montreal-based consumer goods warehouse with user accounts, tracking & managerial oversight!
 
 For more information about the WareFlow application, please consult the [wiki](https://github.com/MarcAbouAbdallah/Wareflow/wiki).
-
-## Team Members
-
-| Name               | GitHub username  |
-| ------------------ | ---------------- |
-| Ahmed Mossa        | AhmedAlRawi0     |
-| Nicolas Saade      | Nicolas-Saade    |
-| Tarek El-Akkaoui   | tarekelakkaoui   |
-| Mohamed Abdelhady  | moh-abdelhady04  |
-| Marc Abou Abdallah | MarcAbouAbdallah |
-| Anthony Saber      | anthonysaber     |
